@@ -2,7 +2,22 @@
 
 # CS50 Web - Programming with Python and JavaScript
 
-## Technologies:
+### Objective:
+
+The objective of a project that is Django about a mail app that uses JavaScript with DOM manipulation and is used to fetch the mails from the backend is to learn how to create a mail application using Django, JavaScript, and DOM manipulation. This would be a good project for beginners who are interested in learning web development, Django, and JavaScript.
+
+The following to objective:
+1) To create a mail application using Django, JavaScript, and DOM manipulation.
+2) To learn how to use JavaScript to interact with the DOM, such as adding, removing, and updating elements.
+3) To learn how to use JavaScript events to respond to user interactions.
+4) To learn how to use JavaScript to fetch messages from the backend and update the user interface.
+5) To practice JavaScript DOM manipulation skills by writing code that interacts with the DOM.
+
+The project would be divided into two main parts: the backend and the front end. The backend would be responsible for storing the messages and handling the user interactions. The front end would be responsible for displaying the messages and responding to user interactions.
+The backend would be written in Django. The front end would be written in JavaScript. The DOM manipulation would be done using the JavaScript DOM API.
+The project helps us to learn how to create a mail application, how to use JavaScript to interact with the DOM, and how to use JavaScript events to respond to user interactions.
+
+### Technologies:
 1) Back-end:
    Python
    Django (as Backend Framework)
@@ -11,7 +26,7 @@
    CSS (with some Bootstrap Components)
    Javascript (for DOM manipulation)
    
-## Specification
+### Specification
 Using JavaScript, HTML, and CSS, complete the implementation of your single-page-app email client inside of inbox.js. The following requirements:
 
 a) Send Mail: When a user submits the email composition form, add JavaScript code to actually send the email.
